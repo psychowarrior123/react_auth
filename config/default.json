@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "yury to-do",
+  "mongoUri": "mongodb+srv://yury:ryjgrf236123@cluster0-opmpg.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
